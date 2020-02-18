@@ -1,4 +1,4 @@
-# WarAle-the-Ageless-Elder
+# Warale-the-Ageless-Elder
 
 A repository for the Dwarf Fortress Succession game Warale the Ageless Elder.
 Additional informations can be found on the [Unofficial DF Discord server](https://discord.gg/CvAEMWx).
