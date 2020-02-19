@@ -17,6 +17,8 @@ The different world saves are also put on [Google Drive](https://drive.google.co
 
 [Year 5 - Smeetheens](https://github.com/Danarca/WarAle-the-Ageless-Elder/archive/v5.0.zip)
 
+[Year 5 - PianoOrb](https://github.com/Danarca/WarAle-the-Ageless-Elder/archive/v6.0.zip)
+
 ## Branch offs and failed years
 
 Failed forts that can be recovered are indicated with `(R)`.
