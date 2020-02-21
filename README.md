@@ -19,7 +19,7 @@ The different world saves are also put on [Google Drive](https://drive.google.co
 
 [Year 6 - PianoOrb](https://github.com/Danarca/WarAle-the-Ageless-Elder/archive/v6.0.zip)
 
-[Year 7 - Zapdos](https://github.com/Danarca/WarAle-the-Ageless-Elder/archive/7.0.zip)
+[Year 7 - Zapdos](https://github.com/Danarca/WarAle-the-Ageless-Elder/archive/v7.0.zip)
 
 ## Branch offs and failed years
 
