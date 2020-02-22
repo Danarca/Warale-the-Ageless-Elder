@@ -21,7 +21,9 @@ The different world saves are also put on [Google Drive](https://drive.google.co
 
 [Year 7 - Zapdos](https://github.com/Danarca/WarAle-the-Ageless-Elder/archive/v7.0.zip)
 
-[**Year 8, first part - The Elf Lord**](https://github.com/Danarca/WarAle-the-Ageless-Elder/archive/v8.0.zip)
+[Year 8, first part - The Elf Lord](https://github.com/Danarca/WarAle-the-Ageless-Elder/archive/v8.0.zip)
+
+[**Year 8, second part - Gogurtless**](https://github.com/Danarca/WarAle-the-Ageless-Elder/archive/v8.1.zip)
 
 ## Branch offs and failed years
 
