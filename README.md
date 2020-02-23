@@ -3,27 +3,26 @@
 A repository for the Dwarf Fortress Succession game Warale the Ageless Elder.
 Additional informations can be found on the [Unofficial DF Discord server](https://discord.gg/CvAEMWx).
 
-The different world saves are also put on [Google Drive](https://drive.google.com/drive/folders/1XJ9f0AjDL1_7Pq5HL_TNFHVnuO-HW4Yg).
 
 ## Main story
 
-[Year 1 - Muffinsofjoy](https://github.com/Danarca/WarAle-the-Ageless-Elder/archive/v1.0.zip)
+[Year 1 by Muffinsofjoy](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v1.0.zip)
 
-[Year 2 - Tortillasaurus\_rex](https://github.com/Danarca/WarAle-the-Ageless-Elder/archive/v2.0.zip)
+[Year 2 by Tortillasaurus\_rex](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v2.0.zip)
 
-[Year 3 - Drunk Sensual Pop-Tart](https://github.com/Danarca/WarAle-the-Ageless-Elder/archive/v3.0.zip)
+[Year 3 by Drunk Sensual Pop-Tart](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v3.0.zip)
 
-[Year 4 - Heathestus/Muffinsofjoy/The Elf Lord](https://github.com/Danarca/WarAle-the-Ageless-Elder/archive/v4.0.zip)
+[Year 4 by Heathestus/Muffinsofjoy/The Elf Lord](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v4.0.zip)
 
-[Year 5 - Smeetheens](https://github.com/Danarca/WarAle-the-Ageless-Elder/archive/v5.0.zip)
+[Year 5 by Smeetheens](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v5.0.zip)
 
-[Year 6 - PianoOrb](https://github.com/Danarca/WarAle-the-Ageless-Elder/archive/v6.0.zip)
+[Year 6 by PianoOrb](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v6.0.zip)
 
-[Year 7 - Zapdos](https://github.com/Danarca/WarAle-the-Ageless-Elder/archive/v7.0.zip)
+[Year 7 by Zapdos](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v7.0.zip)
 
-[Year 8, first part - The Elf Lord](https://github.com/Danarca/WarAle-the-Ageless-Elder/archive/v8.0.zip)
+[Year 8, first part by The Elf Lord](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v8.0.zip)
 
-[**Year 8, second part - Gogurtless**](https://github.com/Danarca/WarAle-the-Ageless-Elder/archive/v8.1.zip)
+[**Year 8, second part by Gogurtless**](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v8.1.zip)
 
 ## Branch offs and failed years
 
