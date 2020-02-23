@@ -12,7 +12,7 @@ Additional informations can be found on the [Unofficial DF Discord server](https
 
 [Year 3 by Drunk Sensual Pop-Tart](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v3.0.zip)
 
-[Year 4 by Heathestus/Muffinsofjoy/The Elf Lord](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v4.0.zip)
+[Year 4 by Heathestus, Muffinsofjoy and The Elf Lord](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v4.0.zip)
 
 [Year 5 by Smeetheens](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v5.0.zip)
 
