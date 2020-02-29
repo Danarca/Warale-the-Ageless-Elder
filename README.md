@@ -26,7 +26,9 @@ Additional informations can be found on the [Unofficial DF Discord server](https
 
 [Year 9 by Azmond](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v9.0.zip)
 
-[**Year 10 by Zapdos**](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v10.0.zip)
+[Year 10 by Zapdos](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v10.0.zip)
+
+[Year 11 by **IncompetentFortressMaker**](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v11.0.zip)
 
 ## Branch offs and failed years
 
