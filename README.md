@@ -30,7 +30,9 @@ Additional informations can be found on the [Unofficial DF Discord server](https
 
 [Year 11, first part by IncompetentFortressMaker](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v11.0.zip)
 
-[**Year 11, second part by Shad Amethyst**](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v11.1.zip)
+[Year 11, second part by Shad Amethyst](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v11.1.zip)
+
+[**Year 11, third part by Danarca**](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v11.2.zip)
 
 ## Branch offs and failed years
 
