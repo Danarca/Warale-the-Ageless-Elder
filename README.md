@@ -42,7 +42,9 @@ Additional informations can be found on the [Unofficial DF Discord server](https
 
 [Year 14, first part by Imperator99](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v14.0.zip)
 
-[**Year 14, second part by Zapdos**](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v14.1.zip)
+[Year 14, second part by Zapdos](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v14.1.zip)
+
+[**Year 15 by Professional Crundle Farmer**](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v15.0.zip)
 
 ## Branch offs and failed years
 
