@@ -48,7 +48,9 @@ Additional informations can be found on the [Unofficial DF Discord server](https
 
 [Year 16 by Mystic](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v16.0.zip)
 
-[**Year 17, first part by Otto**](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v17.0.zip)
+[Year 17, first part by Otto](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v17.0.zip)
+
+[**Year 17, second part by Dude**](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v17.1.zip)
 
 ## Branch offs and failed years
 
