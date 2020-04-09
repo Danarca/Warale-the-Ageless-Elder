@@ -3,6 +3,7 @@
 A repository for the Dwarf Fortress Succession game Warale the Ageless Elder.
 Additional informations can be found on the [Unofficial DF Discord server](https://discord.gg/CvAEMWx).
 
+<!-- Overlapping years' tags are marked with the starting year's number -->
 
 ## Main story
 
@@ -66,7 +67,9 @@ We retired from the main fort and are now building together the Museum, using th
 
 [Year 19, turn 1 by The Goblin Lord](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v19.0.zip)
 
-[**Year 19, turn 2 by Tiwundo_Dias**](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v19.1.zip)
+[Year 19, turn 2 by Tiwundo_Dias](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v19.1.zip)
+
+[**Year 19/20, turn 3 by Zapdos**](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v19.2.zip)
 
 ## Branch offs and failed years
 
