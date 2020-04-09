@@ -62,7 +62,9 @@ Additional informations can be found on the [Unofficial DF Discord server](https
 
 We retired from the main fort and are now building together the Museum, using the adventure mode for this second season.
 
-[**Year 19, turn 1 by The Goblin Lord**](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v19.0.zip)
+[Year 19, turn 1 by The Goblin Lord](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v19.0.zip)
+
+[**Year 19, turn 2 by Tiwundo**](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v19.1.zip)
 
 ## Branch offs and failed years
 
