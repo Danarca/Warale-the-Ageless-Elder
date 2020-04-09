@@ -56,7 +56,13 @@ Additional informations can be found on the [Unofficial DF Discord server](https
 
 [Year 18, second part by Danarca](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v18.1.zip)
 
-[**Year 18, third and last part by Zapdos**](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v18.2.zip)
+[Year 18, third and last part by Zapdos](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v18.2.zip)
+
+## The Museum
+
+We retired from the main fort and are now building together the Museum, using the adventure mode for this second season.
+
+[**Year 19, turn 1 by The Goblin Lord**](https://github.com/Danarca/Warale-the-Ageless-Elder/archive/v19.0.zip)
 
 ## Branch offs and failed years
 
